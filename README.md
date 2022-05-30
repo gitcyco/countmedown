@@ -24,4 +24,4 @@ Future improvements could include:
 * A way to delete multiple tasks quickly. 
 * Ability to reorder tasks either by urgency or completion date.
 
-## Lessons Learned:
+## Lessons Learned
