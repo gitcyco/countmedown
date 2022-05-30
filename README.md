@@ -1,8 +1,8 @@
 # countmedown
-Countdown To Do App
+Countdown To-Do App
 
 ## What is the purpose?
-This app is a to do list with a countdown feature. The app allows you to:
+This app is a to-do list with a countdown feature. The app allows you to:
 
 * Enter a task title
 * Enter a task description
