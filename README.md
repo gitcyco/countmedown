@@ -15,7 +15,8 @@ This app was built using:
 
 * Node.js
 * Express
-* MongoDB
+* MongoDB/Mongoose
+ 
 
 ## Optimizations
 
