@@ -88,6 +88,11 @@ git commit -m 'message'
 git push
 ```
 
+* To sync your files with upstread(original repo, https://github.com/intelagense/countmedown) type:
+```shell
+git fetch upstream
+```
+
 # User credentials (use your own mongodb credentials for the time being)
 * Use dotenv module for credential storage on your local machine
 * .env file contains login information, and MUST BE in your .gitignore
