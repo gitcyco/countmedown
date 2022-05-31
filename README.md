@@ -88,7 +88,7 @@ git commit -m 'message'
 git push
 ```
 
-* To sync your files with upstread(original repo, https://github.com/intelagense/countmedown) type:
+* To sync your files with upstream (original repo, https://github.com/intelagense/countmedown) type:
 ```shell
 git fetch upstream
 ```
