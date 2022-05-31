@@ -80,6 +80,14 @@ upstream        https://github.com/intelagense/countmedown.git (fetch)
 upstream        https://github.com/intelagense/countmedown.git (push)
 ```
 
+* Now you may edit the files in your local copy.
+* To push your changes:
+```shell
+git add .
+git commit -m 'message'
+git push
+```
+
 # User credentials (use your own mongodb credentials for the time being)
 * Use dotenv module for credential storage on your local machine
 * .env file contains login information, and MUST BE in your .gitignore
