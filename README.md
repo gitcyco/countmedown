@@ -30,9 +30,9 @@ Future improvements could include:
 
 
 
-## Development environment setup
+# Development environment setup
 
-# To initialize your development environment with git:
+## To initialize your development environment with git:
 * Visit the main repo: https://github.com/intelagense/countmedown
 * Click Fork in the top right, instructions here: https://docs.github.com/en/get-started/quickstart/fork-a-repo
 * Navigate to your copy of the repo (https://github.com/YOURUSERNAME/countmedown)
