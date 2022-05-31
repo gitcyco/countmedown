@@ -25,7 +25,7 @@ Future improvements could include:
 * A way to delete multiple tasks quickly. 
 * Ability to reorder tasks either by urgency or completion date.
 
-## Lessons Learne
+## Lessons Learned
 
 
 
@@ -97,7 +97,7 @@ const connectionString = `mongodb+srv://${process.env.USER}:${process.env.PW}@cl
 Example of file ".env"  (this file is in your project root folder):
 (plain text file, full name .env)
 
-# be sure to use the quotes to surround your values if they may have strange characters or spaces
+Be sure to use the quotes to surround your values if they may have strange characters or spaces
 ```shell
 PW = 'password'
 USER = 'username'
