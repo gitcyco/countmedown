@@ -93,6 +93,11 @@ git push
 git fetch upstream
 ```
 
+* To install the necessary npm packages listed in package.json:
+```shell
+npm install
+```
+
 # User credentials (use your own mongodb credentials for the time being)
 * Use dotenv module for credential storage on your local machine
 * .env file contains login information, and MUST BE in your .gitignore
